@@ -8,6 +8,10 @@
 	margin: 5px;
 	}
 
+#contact {
+	color: white;
+}
+
 .rcorners {
     border-radius: 20px;
 	}
@@ -24,18 +28,19 @@ img {
 h1	{
 	font-size: 50px;
 	font-family: 'Lato', sans-serif;
+	color: grey;
 	}
 
 h2	{
-	color: #228E96;
+	color: #6BBAA7;
 	}
 
 h3	{
-	color: #09404C;
+	color: #6C648B;
 	}
 
 a:link, a:visited {
-    background-color: #09404C;
+    background-color: #6BBAA7;
     color: white;
     padding: 10px 20px;
     text-align: center; 
@@ -44,5 +49,5 @@ a:link, a:visited {
 	}
 
 a:hover, a:active {
-    background-color: #228E96;
+    background-color: #6C648B;
 	}
